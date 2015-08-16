@@ -9,9 +9,9 @@
  - lantern-pac-patch.exe
     * 去除 自动设置PAC代理
 
- > 适用于 xxx 版本
+> 适用于 xxx 版本
 
- - 便携式 Python 3 运行环境 (Windows 32) - [Python34 Portable][2]
+ - 便携式 Python 3 运行环境 (Win32) - [Python34][2]
 ----------
 
   [1]: https://github.com/Kisesy/Tools/releases/tag/lantern-patch
